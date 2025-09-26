@@ -23,5 +23,8 @@
 - See screenshots in `screenshots/` folder or attached `Windows_Firewall_Lab_HandsOn.pdf` file.
 - CSV contains safe summary of firewall rules.
 
+## Lab Document
+- You can view the detailed lab report here: [Windows Firewall Lab Hands-On](https://docs.google.com/document/d/11YuoZIjO-fHK5oyf3-ywK8f31OY_b-YxQYR4MG9-spg/view)
+
 ## Notes
 - No sensitive data included in CSV or screenshots.
