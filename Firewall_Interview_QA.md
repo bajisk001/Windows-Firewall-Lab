@@ -2,7 +2,6 @@
 
 ## 1. What is a firewall?
 
-**Answer (Interview-Ready):**  
 A firewall is a security system that monitors and controls network traffic between your computer or network and the outside world. It decides what traffic is allowed in or out based on predefined rules.
 
 **Key points:**
@@ -17,7 +16,6 @@ Like a security guard at a building entrance checking who can come in or go out.
 
 ## 2. Difference between stateful and stateless firewall
 
-**Answer (Interview-Ready):**  
 
 | Feature | Stateful Firewall | Stateless Firewall |
 |---------|-----------------|-----------------|
@@ -33,8 +31,7 @@ Like a security guard at a building entrance checking who can come in or go out.
 ---
 
 ## 3. What are inbound and outbound rules?
-
-**Answer (Interview-Ready):**  
+ 
 - **Inbound rules:** Control traffic coming into your system/network.  
   *Example:* Allow SSH on port 22, block Telnet on port 23.  
 - **Outbound rules:** Control traffic going out from your system/network.  
@@ -47,8 +44,7 @@ Like a security guard at a building entrance checking who can come in or go out.
 ---
 
 ## 4. How does UFW simplify firewall management?
-
-**Answer (Interview-Ready):**  
+ 
 UFW (Uncomplicated Firewall) is a Linux command-line tool that makes managing firewall rules easy.
 
 **Key points:**  
@@ -62,8 +58,7 @@ Like a simple remote control for a complex security system.
 ---
 
 ## 5. Why block port 23 (Telnet)?
-
-**Answer (Interview-Ready):**  
+ 
 - Telnet (port 23) is an old protocol for remote access.  
 - Security risk: Transmits data in plain text, including passwords.  
 - Blocking it prevents attackers from intercepting sensitive info.  
@@ -73,7 +68,6 @@ Like a simple remote control for a complex security system.
 
 ## 6. What are common firewall mistakes?
 
-**Answer (Interview-Ready):**  
 - Leaving default rules open (allowing all traffic).  
 - Blocking necessary services accidentally.  
 - Not updating firewall rules when network changes.  
@@ -87,7 +81,6 @@ Always mention “monitoring and updating rules regularly”.
 
 ## 7. How does a firewall improve network security?
 
-**Answer (Interview-Ready):**  
 - Filters traffic to prevent unauthorized access.  
 - Blocks malicious traffic like viruses, malware, or attacks.  
 - Protects sensitive data from leaving the network.  
@@ -100,7 +93,6 @@ Like a checkpoint that only lets safe, authorized traffic in and out.
 
 ## 8. What is NAT in firewalls?
 
-**Answer (Interview-Ready):**  
 NAT (Network Address Translation) is a technique where the firewall or router changes the source or destination IP addresses in network packets.
 
 **Key points:**  
