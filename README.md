@@ -1,7 +1,9 @@
 # Windows Firewall Configuration Hands-On Lab
 
-## Objective
-Configure and test firewall rules to allow or block traffic on Windows.
+## Overview
+This repository demonstrates a hands-on lab for Windows Firewall configuration. 
+It includes the creation, testing, and management of inbound and outbound firewall rules using Windows Defender Firewall and PowerShell. 
+All steps, screenshots, and exported rule data are provided for documentation and review.
 
 ## Environment
 - Windows 10/11
