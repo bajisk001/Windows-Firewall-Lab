@@ -1,4 +1,4 @@
-# Firewall Configuration HandsOn Lab - Windows
+# Firewall Configuration Hands-On Lab - Windows
 
 ## Objective
 - Configure and test firewall rules to allow/block traffic on Windows.
@@ -25,6 +25,22 @@
 
 ## Lab Document
 - You can view the detailed lab report here: [Windows Firewall Lab Hands-On](https://docs.google.com/document/d/11YuoZIjO-fHK5oyf3-ywK8f31OY_b-YxQYR4MG9-spg/view)
+
+## Files Included
+- `README.md` — this file
+- `FirewallRules_Safe.csv` — exported firewall rules
+- `Windows_Firewall_Lab_HandsOn.pdf` — detailed lab report
+- `screenshots/` folder containing:
+  - `New_Inbound_rule_creation.png`
+  - `Status_verification.png`
+  - `step1.png`
+  - `step2.png`
+  - `step3.png`
+  - `step4.png`
+  - `step5.png`
+  - `Inbound_rules_list.png`
+  - `test_before.png`
+  - `test_after.png`
 
 ## Notes
 - No sensitive data included in CSV or screenshots.
